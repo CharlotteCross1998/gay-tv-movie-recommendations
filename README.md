@@ -1,5 +1,7 @@
 # What is this?
 A static website designed to share my reviews on good gay movies/tv shows. 
+# Can I see it?
+Yes: You can view it [here](https://charlottecross1998.github.io/gay-tv-movie-recommendations/).
 # FAQ
 Why is it in HTML/CSS only? Why no javascript/php/insert other language/library here:
 
