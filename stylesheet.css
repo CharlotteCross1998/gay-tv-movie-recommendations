@@ -11,6 +11,32 @@ h2
 	padding: 0 0 0 0;
 	background: linear-gradient(to right, rgb(237, 34, 36), rgb(243, 91, 34), rgb(249, 150, 33), rgb(245, 193, 30), rgb(241, 235, 27) 27%, rgb(241, 235, 27), rgb(241, 235, 27) 33%, rgb(99, 199, 32), rgb(12, 155, 73), rgb(33, 135, 141), rgb(57, 84, 165), rgb(97, 55, 155), rgb(147, 40, 142));
 }
+#left-menu
+{
+	position: absolute;
+	left: 2vw;
+	top: 2vh;
+	width: 20%;
+	max-width: 20%;
+	word-wrap: break-word;
+	background-color: #ffffff;
+	border: 2px solid #9c8a6a;
+	padding: 1vh 1vh 1vh 1vh;
+}
+#left-menu a
+{
+	padding-left: 0.5vw;
+	font-weight: bold;
+}
+#left-menu a, #left-menu a:visited
+{
+	text-decoration: none;
+	color:#000000;
+}
+#left-menu a:hover
+{
+	color: green;
+}
 #center
 {
 	border: 2px solid;
